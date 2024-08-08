@@ -10,7 +10,7 @@ This repository contains two sets of notebooks and a set of scripts:
 
 ### Requirements
 
-The toolbox for CCLONE is available as a python package. This package, with additional information on installation can be found [here](https://github.com/ValerieMarot/clonal_tracing_package).
+The toolbox for CCLONE is available as a python package. This package, with additional information on installation can be found [here](https://github.com/HaghverdiLab/CCLONE).
 
 ### References
 
@@ -18,4 +18,4 @@ Valérie Marot-Lassauzaie, et al. [Identifying cancer cells from calling single-
 
 ### Support
 
-If you found a bug, or have a question please open an [issue](https://github.com/ValerieMarot/clonal_tracing_notebooks/issues).
+If you found a bug, or have a question please open an [issue](https://github.com/HaghverdiLab/CCLONE_notebooks/issues).
